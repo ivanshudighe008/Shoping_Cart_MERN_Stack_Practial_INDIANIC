@@ -6,7 +6,7 @@ A full-stack e-commerce shopping cart application built with the **MERN stack** 
 Prerequisites
 
 - Node.js >= 16
-- MongoDB installed and running locally or via MongoDB Atlas
+- MongoDB is installed and running locally or via MongoDB Atlas
 
 cd server
 npm install
@@ -30,4 +30,7 @@ Running Test Cases
 
 cd client
 npm test
+
 Make sure you have installed required dev dependencies like jest, @testing-library/react, ts-jest, jest-environment-jsdom, etc.
+
+Screenshot: https://www.awesomescreenshot.com/video/38910597?key=a3f538044db85701bd0e5881796e9a40
